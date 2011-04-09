@@ -1,4 +1,10 @@
-﻿using System;
+﻿// By: Erik Hanchett
+// Date:4/09/2011
+// Assignment: #7
+// 
+
+// This is the main entry point
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Windows.Forms;
